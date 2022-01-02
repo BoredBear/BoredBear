@@ -1,5 +1,5 @@
 ### Hello! 👋
-My Readme is still empty, but maybe i fill it later :)
+My Readme is still empty, but maybe I will fill it later :)
 
 <!--
 **BoredBear/BoredBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
